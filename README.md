@@ -1,2 +1,2 @@
-# chiwo-repository1.
+# random
 This is my first repositorry for testing ssh connecction
